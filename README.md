@@ -1,0 +1,2 @@
+# Watchly
+Watchly - Movie Companion
